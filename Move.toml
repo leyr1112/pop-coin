@@ -1,10 +1,10 @@
 [package]
 name = "pop_coin"
 version = "0.0.1"
-published-at = "0x8c29e6c463b3cbd09b26fd21f354df5e89ab19e482173b711e5c94d15c6ffd13"
+published-at = "0xbdbfa86e800b120d9648884791bec4d8e982b3a8d4e16afe422c8fe317930618"
 
 [dependencies]
 Sui = { git = "https://github.com/MystenLabs/sui.git", subdir="crates/sui-framework/packages/sui-framework/", rev = "devnet" }
 
 [addresses]
-pop_coin = "0x8c29e6c463b3cbd09b26fd21f354df5e89ab19e482173b711e5c94d15c6ffd13"
+pop_coin = "0xbdbfa86e800b120d9648884791bec4d8e982b3a8d4e16afe422c8fe317930618"
